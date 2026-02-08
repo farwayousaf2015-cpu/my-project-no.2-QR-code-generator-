@@ -1,1 +1,1 @@
-# my-project-no.2-QR-code-generator-
+# QR-code-generator-app
